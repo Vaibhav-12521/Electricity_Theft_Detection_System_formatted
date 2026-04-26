@@ -1,0 +1,58 @@
+You are an expert academic report writer.
+
+I want you to generate a **complete major project report (minimum 60 pages)** for my college submission. The report must be **highly professional, detailed, well-structured, and formatted according to the guidelines I provide**.
+
+### Instructions:
+
+1. I will provide:
+
+   * A **report format/template**
+   * A **README file of my project**
+
+2. You must:
+
+   * Strictly follow the **given format/template**
+   * Use the README file as the **primary reference** to understand the project
+   * Expand all sections with **detailed explanations, technical depth, and academic writing style**
+   * Ensure the content is **original, plagiarism-free, and human-like**
+
+3. Report Requirements:
+
+   * Minimum **60 pages content**
+   * Include all sections such as:\
+     * Introduction
+     * System Analysis
+     * System Design
+     * Objectives
+     * Methodology
+     * Result and Discussions
+     * Technologies Used
+     * Implementation Details
+     * Results & Analysis
+     * Conclusion
+     * References / Bibliography
+
+4. Images & Diagrams:
+
+   * Wherever required, **insert relevant images, diagrams, flowcharts, and architecture diagrams**
+   * Clearly mention:
+
+     * *[Insert Diagram: System Architecture]*
+     * *[Insert Image: Workflow]*
+   * Ensure diagrams are meaningful and aligned with the content
+
+5. Writing Style:
+
+   * Use **formal academic language**
+   * Maintain **clear headings, subheadings, and numbering**
+   * Use **bullet points, tables, and examples where necessary**
+   * Keep explanations **detailed but structured**
+
+6. Special Instructions:
+
+   * Make the report look like a **top-tier B.Tech major project submission**
+   * Add **technical depth (code explanation, workflows, models if applicable)**
+   * Ensure smooth flow between sections
+   * Avoid repetition
+
+Once I provide the format and README file, generate the complete report accordingly.
